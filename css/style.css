@@ -1,0 +1,18 @@
+tbody,
+tfoot,
+tr,
+td,
+th {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+.table_frem {
+    height: 600px;
+    width: 900px;
+    border: 1px solid #000;
+    margin: 0 auto;
+
+}
