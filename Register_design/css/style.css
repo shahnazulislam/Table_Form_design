@@ -1,0 +1,49 @@
+.position_form{
+    height: 482px;
+    width: 482px;
+    margin: 0 auto;
+    padding: inherit;
+    background: green;
+}
+.bold_txt {
+    font-weight: bold;
+    line-height: 5;
+    color: grey;
+}
+.position_box_1{
+    margin-left: 110px;
+    outline: none;
+    border: none;
+    text-align: center;
+    background: #ccc;
+    height: 40px;
+    width: 280px;
+    font-weight: 300;
+    color: fuchsia;
+}
+.position_box_2{
+    margin-left: 80px;
+    outline: none;
+    border: none;
+    text-align: center;
+    background: #ccc;
+    height: 40px;
+    width: 280px;
+    font-weight: 300;
+    color: fuchsia;
+}
+.position_box_3{
+    margin-left: 10px;
+    outline: none;
+    border: none;
+    text-align: center;
+    background: #ccc;
+    height: 40px;
+    width: 280px;
+    font-weight: 300;
+    color: fuchsia;
+}
+.button_1{
+    padding: 10px 70px;
+    margin-top: 30px;
+}
